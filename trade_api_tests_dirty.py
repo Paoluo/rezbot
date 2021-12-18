@@ -294,8 +294,8 @@ python futures.py
 
 KEY = API_KEY
 SECRET = API_SECRET
-BASE_URL = "https://fapi.binance.com"  # production base url
-# BASE_URL = "https://testnet.binancefuture.com"  # testnet base url
+#BASE_URL = "https://fapi.binance.com"  # production base url
+BASE_URL = "https://testnet.binancefuture.com"  # testnet base url
 
 """ ======  begin of functions, you don't need to touch ====== """
 
